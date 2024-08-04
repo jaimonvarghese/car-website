@@ -1,0 +1,666 @@
+body{
+	margin: 0%;
+	background-color:rgb(250, 246, 246);
+
+}
+
+.container1{
+	margin: 0%;
+}
+.navb{
+	background:white;
+	width: 100%;
+	height: 76px;
+	position: absolute;
+	
+	
+}
+
+.navb .logo1{
+	float: left;
+	
+	
+}
+.navb .logo1 img{
+	width: 175px;
+	height: 58px;
+	margin-left: 80px;
+	padding-top: 28px;
+}
+.navb .items{
+	float: left;
+	margin-top: -55px;
+	margin-left: 228px;
+}
+.navb .items ul{
+	list-style-type: none;
+}
+.navb .items ul li{
+	float: left;
+	text-decoration: none;
+	font-size: 14px;
+	padding-left: 37px;
+	padding-top: 33px;
+	
+	color: black;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.nav1 .items a:hover{
+	font-weight: bold;
+}
+.sec1{
+	background-color:  rgb(247, 244, 244);
+	width: 100%;
+	height: 650px;
+	margin-top: -31px;
+}
+
+.link{
+	padding-left: 114px;
+	margin-top: 15px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: black;
+	
+	
+}
+.link a{
+	color: black;
+	font-size: 17px;
+	text-decoration: underline;
+	
+}
+.link a strong{
+	color: rgb(78, 194, 202);
+	font-size: 19px;
+	text-decoration: underline;
+}
+.pic{
+	margin-top: 34px;
+	margin-left: 27px;
+	background-color: red;
+	position: absolute;
+	width: 96%;
+	height: 600px;
+	background-size: cover;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	
+	
+}
+.pic img{
+	max-width: 100%;
+	height:100% ;
+	background-size: cover;
+	background-position: fixed;
+	background-repeat: no-repeat;
+}
+.des {
+	background: white;
+	margin-top: -1%;
+}
+.des h1{
+	font-size: 50px;
+	text-align: center;
+	
+	font-weight: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+}
+.des1{
+	background-color: white;
+}
+.des p , .des1 p{
+	font-size: 18px;
+	padding-left: 91px;
+	line-height: 2;
+	/* font-weight: bold; */
+	/* letter-spacing: 3px; */
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	
+}
+.pic2{
+	background:white;
+	width: 100%;
+	height: 650px;
+}
+.sec2{
+	width: 100%;
+	height: 600px;
+	background-color: white;
+	padding-top: 15px;
+	padding-left: 104px;
+}
+.sec2 .vid{
+	background-color: black;
+	width: 92%;
+	height: 500px;
+	margin-left: -35px;
+	
+	
+}
+.sec2 .vid iframe{
+	width: 100%;
+	height: 500px;
+}
+.book{
+	width: 100%;
+	height: 250px;
+	background: rgb(237, 243, 184);
+	margin-top: 66px;
+
+}
+.book h3{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 46px;
+	margin-left: -20px;
+
+}
+.book button{
+	width: 263px;
+	height: 55px;
+	background: darkblue;
+	
+	margin-left: 490px;
+	margin-top: 50px;
+	
+}
+.book button a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.reg{
+	width: 100%;
+	height: 800px;
+	background-color: white;
+	padding: 2px 52px;
+}
+.reg h2{
+	text-align: center;
+}
+.footr{
+	background: black;
+	width: 100%;
+	height: 250px;
+}
+.footr .folo {
+	float: left;
+
+}
+.footr .folo img{
+	width: 71px;
+	height: 71px;
+	margin-left: 80px;
+}
+.menus{
+	margin-left: 5px;
+}
+.menus ul li{
+	color: silver;
+	float: left;
+	
+	list-style-type: none;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+.ico ul li{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+	padding-left: 20px;
+}
+.footr p{
+	color: silver;
+	font-size: 13px;
+	padding-left: 178px;
+	padding-top: 46px;
+}
+.lopic{
+	
+	margin-top: 34px;
+	margin-left: 27px;
+	background-color:white;
+	position: absolute;
+	width: 96%;
+	height: 539px;
+	
+
+}
+.lopic h1{
+	font-size: 68px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-left: 77px;
+
+}
+.lopic p{
+	font-size: 26px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	margin-top: 4px;
+	margin-left:77px ;
+}
+.lopic img{
+	width: 99%;
+	height:400px ;
+	background-size: cover;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	padding-left: 520px;
+	margin-top: -66px;
+}
+.sear{
+	width: 100%;
+	height: 250px;
+	background:#f0efee;
+
+}
+
+.drop select{
+	width: 266px;
+	height: 48px;
+	float: left;
+	margin-top: 48px;
+	margin-left: 37px;
+	color: rgb(97, 95, 95);
+	background-color: white;
+	border-radius: 4px;
+	
+}
+.sear button{
+	width: 192px;
+	height: 55px;
+	background: darkblue;
+	
+	margin-left: 500px;
+	margin-top: 58px;
+	
+}
+.sear button a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.buttons {
+	width: 100%;
+	height: 160px;
+	background: white;
+	padding-left: 80px;
+	padding-top: 58px;
+	
+
+}
+.buttons button{
+	width: 263px;
+	height: 55px;
+	background: darkblue;
+	margin-left: 10px;
+	
+}
+.buttons button a{
+	color: white;
+}
+/* ..... Home css...... */
+.hosec1{
+	background-color:  rgb(247, 244, 244);
+	width: 100%;
+	height: 650px;
+	margin-top: 1px;
+	/* background-color: red; */
+	padding-left: 30px;
+	padding-top: 129px;
+	
+}
+.hopic{
+	width: 97%;
+	height: 460px;
+	background: black;
+	
+}
+.models{
+	background-color:white;
+	width: 100%;
+	height: 650px;
+	margin-top: -5px;
+}
+.btns{
+	width: 100%;
+	height: 160px;
+	background:  rgb(247, 244, 244);
+	padding-left: 80px;
+	padding-top: 40px;
+}
+.btns button{
+	width: 263px;
+	height: 55px;
+	background:#83838c;
+	margin-left: 10px
+}
+.btns button a{
+	color: white;
+}
+.happ{
+	width: 100%;
+	height: 150px;
+	background-color: darkblue;
+	color: white;
+	font-weight: bold;
+	padding: 58px 60px;
+	
+}
+.happ p{
+	
+	font-size: 20px;
+}
+.happ p span{
+	font-size: 30px;
+
+}
+.kno{
+	width: 100%;
+	height: 150px;
+	background-color: white;
+}
+.kno button{
+	width: 263px;
+	height: 55px;
+	background: darkblue;
+	
+	margin-left: 490px;
+	margin-top: 50px;
+	
+}
+.kno button a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.so{
+	width: 100%;
+	height: 180px;
+	background-color: darkblue;
+	color: white;
+	padding: 58px 60px;
+}
+.so span{
+	font-size: 39px;
+}
+
+.cards{
+	width: 100%;
+	height: 1773px;
+	background-color: white;
+}
+.cards1{
+	width: 100%;
+	height: 900px;
+	background-color: white;
+}
+.news{
+	background-image: url(https://www.hyundai.com/etc/designs/hyundai/in/en/images/news/bg-news-pc.png);
+	width: 100%;
+	height: 700px;
+}
+.news p{
+	color: black;
+	font-size: 50px;
+	padding: 80px 45%;
+	font-weight: 100px;
+}
+.news .sil{
+	width: 95%;
+	height: 450px;
+	background-color: white;
+	margin: -45px 35px;
+}
+.news .sil h3{
+	color: black;
+	padding-top: 118px;
+	font-weight: bold;
+}
+.news button{
+	width: 263px;
+	height: 55px;
+	background: darkblue;
+	
+	margin-left: 490px;
+	margin-top: 50px;
+	
+}
+.news button a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.find{
+	width: 100%;
+	height: 250px;
+	background: white;
+}
+.find h1{
+	color: black;
+	font-weight: bold;
+	font-size: 50px;
+	padding-top: 75px;
+}
+/* ......... contact page css........ */
+
+
+.box{
+    border: 2px groove black;
+    background-color: white;
+    width: 50%;
+    height: 260px;
+	align-items: center;
+	padding-left: 20px;
+}
+.box h6{
+    color: #002c5f;
+    font-weight: 600;
+    font-family: HyundaiSansText;
+    font-size: 13px;
+	margin-left: -348px;
+	
+}
+.box .num{
+    font-size: 14px;
+    color: #666;
+    height: 46px;
+    padding: 0 10px;
+    font-size: 16px;
+    color: #000;
+    box-sizing: border-box;
+    font-family: HyundaiSansText,sans-serif;
+}
+.box .num input[type='text']{
+    border: 1px solid rgb(184, 184, 184);
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    text-align: left;
+    width:587px;
+	margin-left: -13px;
+}
+.box p{
+    display: inline-block;
+    font-family: HyundaiSansText,sans-serif;
+    font-weight: lighter;
+    padding-top: 5px;
+    font-size: 12px!important;
+	margin-left: -131px;
+}
+.box .num ::placeholder{
+    margin-left: -5px;
+    text-align: left;
+}
+.box button{
+    background-color: #002c5f;
+    color: #fff;
+    padding:  10px;
+    height: 40px;
+    line-height: 20px;
+    min-width: 70px;
+    font-family: HyundaiSansText,sans-serif;
+    width: 70%;
+	margin-left: -21px;
+}
+.box button a{
+    color:  #fff;
+    text-decoration: none;
+}
+.bt{
+    color: #002c5f;
+    text-decoration: underline;
+}
+
+/* ..... email css...... */
+
+.ebox{
+    border: 1px solid rgb(88, 88, 88);
+    background-color: white;
+    width: 55%;
+    height: 370px;
+    margin-top: 6%;
+}
+.ebox h6{
+    color: #000000;
+    font-weight: 500;
+    font-family: HyundaiSansText;
+    font-size: 13px;
+    margin-left: -480px;
+    margin-top: 18px;
+}
+.ebox p{
+    color: red;
+}
+.ebox .num{
+    font-size: 14px;
+    color: #666;
+    margin-top: -32px;
+    margin-left: -64px;
+    height: 46px;
+    padding: 0 10px;
+    font-size: 16px;
+    color: #000;
+    box-sizing: border-box;
+    font-family: HyundaiSansText,sans-serif;
+}
+.ebox .num input[type='text']{
+    border: 1px solid rgb(184, 184, 184);
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    margin-left: 70px;
+    width:625px;
+	margin-top: 18px;
+}
+.ebox h5{
+    color: #000000;
+    font-weight: 500;
+    font-family: HyundaiSansText;
+    font-size: 13px;
+    margin-left: -563px;
+    margin-top: 0px;
+}
+ .ebox p{
+    color: red;
+}
+.ebox .pass{
+    font-size: 14px;
+    color: #666;
+    margin-top:-20px;
+    margin-left: -64px;
+    height: 46px;
+    padding: 0 10px;
+    font-size: 16px;
+    color: #000;
+    box-sizing: border-box;
+    font-family: HyundaiSansText,sans-serif;
+}
+.ebox .pass input[type='text']{
+    border: 1px solid rgb(184, 184, 184);
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    margin-left: 70px;
+    width:625px;
+	margin-top: 6px;
+}
+.ebox p{
+    display: inline-block;
+    font-family: HyundaiSansText,sans-serif;
+    font-weight: lighter;
+    padding-top: 5px;
+    font-size: 12px!important;
+}
+.pass ::placeholder{
+    margin-left: -5px;
+    text-align: left;
+}
+#fid{
+    float: left;
+    margin-left: 34px;
+    margin-top: 8px;
+	font-weight: bold;
+	font-size: 12px;
+	color:  #6f6262;
+
+}
+#fid1{
+    float: right;
+    margin-right: 25px;
+    margin-top: 5px;
+	font-weight: bold;
+	font-size: 12px;
+	color:  #6f6262;
+	
+}
+.bt1 button{
+    background-color: #002c5f;
+    color: #fff;
+    padding:  10px;
+    height: 40px;
+    line-height: 20px;
+    min-width: 70px;
+    font-family: HyundaiSansText,sans-serif;
+    width: 70%;
+}
+a{
+    color:  #fff;
+    text-decoration: none;
+}
+.checkbox input[type='checkbox']{
+    border:4px solid;
+	width: 20px;
+	height: 20px;
+}
+.checkbox{
+    color:black;
+    display: inline-block;
+    font-weight: 600;
+    font-family: HyundaiSansText,sans-serif;
+    font-size: 12px;
+}
+.checkbox #p1{
+	margin: 2px 5px;
+}
+
+.tc{
+    color:#00aad2
+}
+.bt{
+    color: #002c5f;
+    text-decoration: underline;
+}
+.bt1 button{
+	width: 90%;
+	height: 45px;
+	margin-top: 20px;
+}
+
+/* #lin{
+    color: aliceblue;
+    margin-top: 1px;
+} */
